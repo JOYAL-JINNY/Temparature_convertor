@@ -6,5 +6,5 @@ function calc() {
     var result = (temp * 9 / 5) + 32;
 
     // ✅ Display the result
-    document.getElementById("res").textContent = "Fahrenheit: "+ result.toFixed(2) +"°F";
+    document.getElementById("res").textContent = "🌡️ Fahrenheit: "+ result.toFixed(2) +"°F";
 }
